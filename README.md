@@ -13,8 +13,6 @@ A single page note taking application powered by a serverless API written comple
 * The backend APIs need to be secure
 * The app needs to be responsive
 
-The app is deployed on the AWS Platform at https://d2opjbmp4la1am.cloudfront.net/
-
 ## TECHNOLOGY SUMMARY
 
 * Lambda & API Gateway for our serverless API

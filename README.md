@@ -1,6 +1,6 @@
 # AWS Scratch
 
-A single page note taking application powered by a serverless API written completely in JavaScript and hosted on AWS. This is the complete source for the backend. The frontend code is located at [serverless-stack-api](https://github.com/paulepps/serverless-stack-client).
+A single page note taking application powered by a serverless API written completely in JavaScript and hosted on AWS. This is the complete source for the backend. The frontend code is located at [serverless-stack-client](https://github.com/paulepps/serverless-stack-client).
 
 ## REQUIREMENTS
 
